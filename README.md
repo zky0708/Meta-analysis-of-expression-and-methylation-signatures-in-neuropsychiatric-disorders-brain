@@ -13,7 +13,7 @@ To run the algorithm, the following two packages are required.
 ## 2. Data files
 - ```findMultipleConsPSAttractors.R``` is the main function we need to call for running the algorithm.
 - ```dataList_exprs_PFC.rda``` is the discovery expression data cohort we used in the meta-analysis,
-and its form is a R "list" of which each item is a expression data matrix from an individual study.
+and its form is a R "list" of which each item is a expression data matrix from an individual study. It can be downloaded from [Dropbox](https://www.dropbox.com/s/l96i75prxrrtgxk/dataList_exprs_PFC.rda?dl=0).
 - ```map_exprs.rda``` contains a vector mapping each probe of Affymetrix Human Genome U133 array to a gene symbol name
 (note that multiple probes might be mapped the same gene).
 - ```sample_seeds.csv``` contains probes which can be used as seeds to generate the three co-expression signatures in the paper, 
