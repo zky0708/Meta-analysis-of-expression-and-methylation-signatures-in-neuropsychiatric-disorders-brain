@@ -10,4 +10,4 @@ seeds <- read.csv("sample_seeds.csv", as.is = TRUE, header = FALSE)
 seeds <- seeds$V1
 
 cons_exprs <- findMultipleConsPSAttractors(dataMatrixList = dataList, 
-											map_short = map_short, seeds = seeds)
+					   map_short = map_short, seeds = seeds)
