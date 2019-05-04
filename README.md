@@ -1,4 +1,4 @@
-# Meta-analysis-of-expression-and-methylation-signatures-in-neuropsychiatric-disorders-brains
+# Meta-analysis of expression and methylation signatures in neuropsychiatric disorders brains
 
 This depository contains the consensus probe-selection attractor finding algorithm we used for identifying the signatures 
 discussed in Zhu et al., "[Meta-analysis of expression and methylation signatures indicates a stress-related 
