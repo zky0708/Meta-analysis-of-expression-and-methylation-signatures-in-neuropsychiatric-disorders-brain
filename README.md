@@ -1,8 +1,8 @@
 # Meta-analysis-of-expression-and-methylation-signatures-in-neuropsychiatric-disorders-brains
 
 This depository contains the consensus probe-selection attractor finding algorithm we used for identifying the signatures 
-discussed in Zhu et al., "Meta-analysis of expression and methylation signatures indicates a stress-related 
-epigenetic mechanism in multiple neuropsychiatric disorders".
+discussed in Zhu et al., "[Meta-analysis of expression and methylation signatures indicates a stress-related 
+epigenetic mechanism in multiple neuropsychiatric disorders](https://www.nature.com/articles/s41398-018-0358-5)," *Translational Psychiatry*, 2019.
 
 ## 1. Required packages
 To run the algorithm, the following two packages are required.
